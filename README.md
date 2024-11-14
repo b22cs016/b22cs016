@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Inventory Management , Detection of Deadlock using ML repos<br>👯 I’m looking to collaborate on real-world , impactful projects <br>🌱 I’m currently honing my AI/ML , development skills <br>💬 Ask me about Harry Potter, DSA<br>⚡ Fun fact : - I am a flat-earther 
+🔭 I’m currently working on Inventory Management , Detection of Deadlock using ML repos<br>👯 I’m looking to collaborate on real-world , impactful projects <br>🌱 I’m currently honing my AI/ML , development skills <br>💬 Ask me about DSA, Harry Potter,F1,Football <br>⚡ Fun fact : - I am a flat-earther 
 
 
 ## 🌐 Socials:
