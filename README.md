@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently learning Cloud Computing, Speech Understanding, Computer Vision and building MERN, end-to-end ML projects<br>👯 I’m looking to collaborate on cloud , ML projects <br>🌱 I’m currently honing my AI/ML , development skills <br>💬 Ask me about DSA, Harry Potter,F1,Football <br>⚡ Fun fact : - I am a flat-earther xd!
+🔭 I’m currently learning Java Spring Boot<br>👯 I’m looking to collaborate on cloud , ML projects <br>🌱 I’m currently honing my AI/ML , development skills <br>💬 Ask me about DSA, Harry Potter,F1,Football <br>⚡ Fun fact : - I am a flat-earther xd!
 
 
 ## 🌐 Socials:
